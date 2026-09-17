@@ -8,7 +8,7 @@ Algoritmo SistemaGestionEscolar
 	Escribir "ingrese cantidad de estudiantes "
 	Leer cantidad
 
-	para i<-1 hasta cantida Hacer
+	para i<-1 hasta cantidad Hacer
 		Escribir "ingrese nombre del estudiantes"
 		Leer nombre
 
