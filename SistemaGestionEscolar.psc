@@ -32,7 +32,7 @@ Algoritmo SistemaGestionEscolar
 		Escribir "nombre:",nombre
 		Escribir "curso:",curso
 		Escribir "promedio:",promedio
-		Escribir "asitencias en una semana :",asistencias
+		Escribir "asistencias en una semana :",asistencias
 	FinPara
 
 	
